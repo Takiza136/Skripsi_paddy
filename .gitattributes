@@ -1,0 +1,2 @@
+# Abaikan file .ipynb dari statistik bahasa agar bahasa utama terdeteksi sebagai Python, JS, HTML, CSS
+*.ipynb linguist-detectable=false
