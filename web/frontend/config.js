@@ -1,3 +1,2 @@
-// URL backend API. Kosong = origin yang sama (saat disajikan oleh FastAPI).
-// Untuk deploy di Vercel, isi dengan URL backend, mis. "https://USERNAME-padiscan.hf.space"
-window.API_BASE = "";
+// URL backend API (Cloudflare Tunnel).
+window.API_BASE = "https://workstation-hundreds-pins-pics.trycloudflare.com";

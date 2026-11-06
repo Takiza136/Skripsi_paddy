@@ -21,3 +21,7 @@ Screenshot*.png
 
 # Dataset lain
 citra/
+
+# Cloudflared
+cloudflared.exe
+
