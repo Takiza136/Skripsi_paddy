@@ -1,0 +1,23 @@
+# Python / virtualenv
+venv/
+__pycache__/
+*.pyc
+
+# Dataset besar (unduh dari Kaggle: paddy-disease-classification)
+paddy-disease-classification/
+*.zip
+
+# Bobot model (besar) - letakkan manual di web/backend/model/
+*.pth
+*.pt
+
+# Berkas pribadi
+KHS_*.pdf
+Screenshot*.png
+
+# Lainnya
+.ipynb_checkpoints/
+*.log
+
+# Dataset lain
+citra/

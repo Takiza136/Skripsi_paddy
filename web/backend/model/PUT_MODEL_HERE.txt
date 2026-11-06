@@ -1,0 +1,5 @@
+Taruh hasil training di folder ini:
+
+- vit_paddy_best.pth
+- class_names.json
+- model_info.json
